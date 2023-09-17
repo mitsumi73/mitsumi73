@@ -1,5 +1,4 @@
 <!-- VQA_IoT Profile -->
->>>>>>> mitsumi73/main
 <a href="#" target="_blank">
   <img src="traidat.svg" width="1200" alt="traidat.svg" />
 </a>
