@@ -67,7 +67,7 @@
 <br>
 <div align="left">
 <p><strong>☕ Đang sinh sống tại Guwangju, Korea </strong></p>
-<p><strong>☕ Hiện tại đang theo học tại Trường ĐH Kyonggi năm 3 </strong></p>
+<p><strong>☕ Hiện tại đang là sinh viên năm 3 trường ĐH Kyonggi </strong></p>
 <p><strong>☕ Nhập học trường Đại học Kyongggi khoa Khoa học máy tính </strong></p>
 <p><strong>☕ 02/2021 - Tốt nghiệp Tiếng Hàn trường Đại học Kyonggi </strong></p>
 <p><strong>☕ 12/2018 - Đến Hàn Quốc </strong></p>
