@@ -38,7 +38,6 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-
 <br>
 <div align=center>
   <a href="#" title="mitsumi73">
@@ -75,13 +74,14 @@
 <p><strong>☕ Quê Quán: Vĩnh Long, Việt Nam </strong></p>
 <p><strong>☕ Ngày/ Tháng/ Năm Sinh : 03/ 07/ XXXX </strong></p>
 <p>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/voquocanh.0703" target="_blank">https://www.facebook.com/voquocanh.0703</a></strong>
+  <strong>🔗 Faceboo에 연락하기를 바랍니다: <a href="https://www.facebook.com/voquocanh.0703" target="_blank">https://www.facebook.com/voquocanh.0703</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:vqa2000mat2000@kyonggi.ac.kr" target="_top">vqa2000mat2000@kyonggi.ac.kr</a></strong>
+  <strong>📧 메일: <a href="mailto:vqa2000mat2000@kyonggi.ac.kr" target="_top">vqa2000mat2000@kyonggi.ac.kr</a></strong>
 </p>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img  />
+<div align="center">
+  <p> Hãy cố gắng dù có khó khăn đến đâu đi nữa !! </p>
 </a>
