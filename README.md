@@ -3,7 +3,7 @@
   <img src="traidat.svg" width="1200" alt="traidat.svg" />
 </a>
 
-<h2 align="center">🛠 Technology and Tools are learning 🛠</h2>
+<h2 align="center">🛠 Technology and Tools 🛠</h2>
 <br>
   <div align="center">
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -66,12 +66,12 @@
 <h2 align="center">📖 My Story 📖</h2>
 <br>
 <div align="left">
-<p><strong>☕ Đang sinh sống tại Guwangju, Korea </strong></p>
-<p><strong>☕ Hiện tại đang là sinh viên năm 3 trường ĐH Kyonggi </strong></p>
-<p><strong>☕ Nhập học trường Đại học Kyongggi khoa Khoa học máy tính </strong></p>
-<p><strong>☕ 02/2021 - Tốt nghiệp Tiếng Hàn trường Đại học Kyonggi </strong></p>
-<p><strong>☕ 12/2018 - Đến Hàn Quốc </strong></p>
-<p><strong>☕ 2018 - Tốt nghiệp THPT Bình Minh </strong></p>
+<p><strong>☕ 현제 경기도 광주시에서  살고 있습니다 </strong></p>
+<p><strong>☕ 21학번 컴공 경기대학교 </strong></p>
+<p><strong>☕ 컴퓨터공학전공 경기대학교 입학 </strong></p>
+<p><strong>☕ 02/2021 - 경기대학교 교육관에 졸업했음 </strong></p>
+<p><strong>☕ 12/2018 - 한국에 온다 </strong></p>
+<p><strong>☕ 2018 - 고등학교 Binh Minh 졸업했음 </strong></p>
 <p><strong>☕ Quê Quán: Vĩnh Long, Việt Nam </strong></p>
 <p><strong>☕ Ngày/ Tháng/ Năm Sinh : 03/ 07/ XXXX </strong></p>
 <p>
