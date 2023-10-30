@@ -1,6 +1,6 @@
 <!-- VQA_IoT Profile -->
 <a href="#" target="_blank">
-  <img src="traidat.svg" width="1200" alt="traidat.svg" />
+  <img src="traidat.svgz" width="1200" alt="traidat.svg" />
 </a>
 
 <h2 align="center">🛠 Technology and Tools 🛠</h2>
