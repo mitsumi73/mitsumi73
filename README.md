@@ -65,26 +65,24 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="mitsumi73-email" />
   </a>
 </div>
-<h2 align="center">📖 My Story 📖</h2>
+<h2 align="center">📖 Education 📖</h2>
 <br>
 <div align="left">
-<p><strong>☕ 현제 경기도 광주시에서  살고 있습니다 </strong></p>
-<p><strong>☕ 21학번 컴공 경기대학교 </strong></p>
-<p><strong>☕ 컴퓨터공학전공 경기대학교 입학 </strong></p>
-<p><strong>☕ 02/2021 - 경기대학교 교육관에 졸업했음 </strong></p>
-<p><strong>☕ 12/2018 - 한국에 온다 </strong></p>
-<p><strong>☕ 2018 - 고등학교 Binh Minh 졸업했음 </strong></p>
-<p><strong>☕ Quê Quán: Vĩnh Long, Việt Nam </strong></p>
-<p><strong>☕ Ngày/ Tháng/ Năm Sinh : 03/ 07/ XXXX </strong></p>
+<p><strong>☕ 2018 - Graduated from High School</strong></p>
+<p><strong>☕ 2018 - Come to Korea - Korean Language(2019~2020)</strong></p>
+<p><strong>☕ 2021 - Kyonggi Uni - Computer Engineering Major(03/2021) - Expected to graduate: 02/2025</strong></p>
+<p><strong>☕ 2021 - TOPIK(Test of Proficiency in Korean) Level 3</strong></p>
+<p><strong>☕ 2023 - Korean Society of Information Technology
+The best thesis in the thesis contest</strong></p>
 <p>
   <strong>🔗 Faceboo에 연락하기를 바랍니다: <a href="https://www.facebook.com/voquocanh.0703" target="_blank">https://www.facebook.com/voquocanh.0703</a></strong>
   <br>
   <strong>📧 메일: <a href="mailto:vqa2000mat2000@kyonggi.ac.kr" target="_top">vqa2000mat2000@kyonggi.ac.kr</a></strong>
 </p>
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 My Hobby 📑</h2>
 <br>
 <a href="#" target="_blank">
 <div align="center">
-  <p> Hãy cố gắng dù có khó khăn đến đâu đi nữa !! </p>
+  <p> Game(LOL), Volleyball, Swimming, Gymnastics, Travel, Hang out with friends, Go shopping </p>
 </a>
