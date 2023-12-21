@@ -72,7 +72,7 @@
 <p><strong>☕ 2018 - Come to Korea </strong></p>
 <p><strong>☕ 2018 - Kyonggi Uni(2018714XX) -  Korean Language(2019~2020)</strong></p>
 <p><strong>☕ 2021 - Kyonggi Uni(2021115XX) - Computer Engineering Major(03/2021) - Expected to graduate: 02/2025</strong></p>
-<p><strong>☕ 2021 - TOPIK(Test of Proficiency in Korean) Level 3</strong></p>
+<p><strong>☕ 2023 - TOPIK(Test of Proficiency in Korean) Level 3</strong></p>
 <p><strong>☕ 2023 - Korean Society of Information Technology
 The best thesis in the thesis contest</strong></p>
 <p>
