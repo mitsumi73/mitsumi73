@@ -75,9 +75,9 @@
 <p><strong>☕ 2023 - Korean Society of Information Technology
 The best thesis in the thesis contest</strong></p>
 <p>
-  <strong>🔗 Faceboo에 연락하기를 바랍니다: <a href="https://www.facebook.com/voquocanh.0703" target="_blank">https://www.facebook.com/voquocanh.0703</a></strong>
+  <strong>🔗 Facebook: <a href="https://www.facebook.com/voquocanh.0703" target="_blank">https://www.facebook.com/voquocanh.0703</a></strong>
   <br>
-  <strong>📧 메일: <a href="mailto:vqa2000mat2000@kyonggi.ac.kr" target="_top">vqa2000mat2000@kyonggi.ac.kr</a></strong>
+  <strong>📧 Gmail: <a href="mailto:vqa2000mat2000@kyonggi.ac.kr" target="_top">vqa2000mat2000@kyonggi.ac.kr</a></strong>
 </p>
 <br>
 <h2 align="center">📑 My Hobby 📑</h2>
