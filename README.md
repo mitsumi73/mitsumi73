@@ -73,8 +73,8 @@
 <p><strong>☕ 2018 - Kyonggi Uni(2018714XX) -  Korean Language(2019~2020)</strong></p>
 <p><strong>☕ 2021 - Kyonggi Uni(2021115XX) - Computer Engineering Major(03/2021) - Expected to graduate: 02/2025</strong></p>
 <p><strong>☕ 2023 - TOPIK(Test of Proficiency in Korean) Level 3</strong></p>
-<p><strong>☕ 2023 - Korean Society of Information Technology
-The best thesis in the thesis contest</strong></p>
+<p><strong>☕ 2023 - President of the Korea Information Technology Society Award for Best Thesis (NFT - based P2P Gifticon Sharing System)</strong></p>
+<p><strong>☕ 2023 - Kyonggi Uni SW-Centered Uni Project Team - Grand Prize in 5th Python Basic Coding Program for International Students</strong></p>  
 <p>
   <strong>🔗 Facebook: <a href="https://www.facebook.com/voquocanh.0703" target="_blank">https://www.facebook.com/voquocanh.0703</a></strong>
   <br>
