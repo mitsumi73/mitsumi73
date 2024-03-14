@@ -1,7 +1,14 @@
 <!-- VQA_IoT Profile -->
-<a href="#" target="_blank">
-  <img src="traidat.svg" width="1200" alt="traidat.svg" />
-</a>
+<div align="center">
+  <a href="https://open.spotify.com/user/21spkr4q34ztbahh3zksrqq6a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21spkr4q34ztbahh3zksrqq6a&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+###
+
+<img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h2 align="center">🛠 Technology and Tools 🛠</h2>
 <br>
@@ -47,40 +54,42 @@
   <a href="#" title="mitsumi73">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=mitsumi73&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-  <br>
-  <br>
-  <br>
   </div>
 
+###
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <div align="center">
-  <a href="https://facebook.com/voquocanh.0703" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="mitsumi73-facebook" />
+  <a href="https://facebook.com/voquocanh.0703" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://instagram.com/donghwan_73" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="mitsumi73-instagram" />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a> 
   <a href="mailto:vqa2000mat2000@kyonggi.ac.kr" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="mitsumi73-email" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
 <h2 align="center">📖 Education 📖</h2>
 <br>
 <div align="left">
 <p><strong>☕ 2018 - Graduated from High School</strong></p>
 <p><strong>☕ 2018 - Come to Korea </strong></p>
-<p><strong>☕ 2018 - Kyonggi Uni(2018714XX) -  Korean Language(2019~2020)</strong></p>
-<p><strong>☕ 2021 - Kyonggi Uni(2021115XX) - Computer Engineering Major(03/2021) - Expected to graduate: 02/2025</strong></p>
+<p><strong>☕ 2018 - Kyonggi Uni(student ID 18) -  Korean Language(Level 6)</strong></p>
+<p><strong>☕ 2021 - Kyonggi Uni(student ID 21) - Computer Engineering Major - Expected to graduate: 02/2025</strong></p>
 <p><strong>☕ 2023 - TOPIK(Test of Proficiency in Korean) Level 3</strong></p>
-<p><strong>☕ 2023 - President of the Korea Information Technology Society Award for Best Thesis (NFT - based P2P Gifticon Sharing System)</strong></p>
-<p><strong>☕ 2023 - Kyonggi Uni SW-Centered Uni Project Team - Grand Prize in 5th Python Basic Coding Program for International Students</strong></p>  
-<p>
-  <strong>🔗 Facebook: <a href="https://www.facebook.com/voquocanh.0703" target="_blank">https://www.facebook.com/voquocanh.0703</a></strong>
-  <br>
-  <strong>📧 Gmail: <a href="mailto:vqa2000mat2000@kyonggi.ac.kr" target="_top">vqa2000mat2000@kyonggi.ac.kr</a></strong>
-</p>
+<p><strong>☕ 2023 - Bronze Medal of the Korea Information Technology Society Award(한국정보기술학회)</strong></p>
+<p><strong>☕ 2024 - Kyonggi Uni SW-Centered Uni Project Team - Grand first in 5th Python Basic Coding Program for International Students</strong></p>
+<p><strong>☕ 2024 - TOPIK(Test of Proficiency in Korean) Level 4</strong></p>
 <br>
+  
+### 
 <h2 align="center">📑 My Hobby 📑</h2>
 <br>
 <a href="#" target="_blank">
