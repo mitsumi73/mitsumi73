@@ -4,12 +4,13 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21spkr4q34ztbahh3zksrqq6a&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-###
 
+
+###
 <img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
 
-###
 
+###
 <h2 align="center">🛠 Technology and Tools 🛠</h2>
 <br>
   <div align="center">
