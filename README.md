@@ -3,11 +3,22 @@
 Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="48px" alt="hi"> I'm VO QUOC ANH !
 </div>
 
-
 ###
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mitsumi73&column=9&theme=onedark)](https://github.com/mitsumi73/mitsumi73)
-
+<div align="center">
+  <a href="https://facebook.com/voquocanh.0703" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/donghwan_73" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a> 
+  <a href="mailto:vqa2000mat2000@kyonggi.ac.kr" target="top">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 <h2 align="center">🛠 Technology and Tools 🛠</h2>
@@ -81,23 +92,8 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 </a>
 
 ###
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<div align="center">
-  <a href="https://facebook.com/voquocanh.0703" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/donghwan_73" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a> 
-  <a href="mailto:vqa2000mat2000@kyonggi.ac.kr" target="top">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mitsumi73&column=9&theme=onedark)](https://github.com/mitsumi73/mitsumi73)
 
 ###
 <h2 align="center">📖 Education 📖</h2>
