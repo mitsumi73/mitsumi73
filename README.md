@@ -49,12 +49,17 @@
 <span><img src="https://img.shields.io/badge/Yaml-282C34?logo=yaml&logoColor=CB171E" alt="yaml logo" title="yaml" height="25" /></span>
 &nbsp;
 <br>
+
     
 <div align="center">
+<br>  
+<a>
   
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21spkr4q34ztbahh3zksrqq6a)
+![spotify-github-profile](/novatorem.svg)
 
+</a>
 </div>
+
 ###
 <img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
 
@@ -62,7 +67,6 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center">
-  </a>
   <a href="#" title="mitsumi73">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsumi73&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
