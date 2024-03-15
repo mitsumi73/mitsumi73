@@ -63,7 +63,6 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 &nbsp;
 <br>
 
-    
 <div align="center">
 <br>  
 <a>
@@ -73,9 +72,7 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 </a>
 </div>
 
-
 <img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
-
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
@@ -85,11 +82,14 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitsumi73&show_icons=true&theme=dark#gh-dark-mode-only&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
-
+  
+<div align="center">
+<br>  
+<a>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=mitsumi73&column=9&theme=onedark)](https://github.com/mitsumi73/mitsumi73)
 
+</a>
 
 <h2 align="center">📖 Education 📖</h2>
 <br>
@@ -104,9 +104,7 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 <p><strong>☕ 2024 - TOPIK(Test of Proficiency in Korean) Level 4</strong></p>
 <br>
   
-
 <h2 align="center">📑 My Hobby 📑</h2>
-<br>
 <a href="#" target="_blank">
 <div align="center">
   <p> Game(LOL), Volleyball, Swimming, Gymnastics, Travel, Hang out with friends, Go shopping </p>
