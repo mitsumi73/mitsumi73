@@ -49,15 +49,12 @@
 <span><img src="https://img.shields.io/badge/Yaml-282C34?logo=yaml&logoColor=CB171E" alt="yaml logo" title="yaml" height="25" /></span>
 &nbsp;
 <br>
-
+    
 <div align="center">
-<br>
-  <a href="https://open.spotify.com/user/21spkr4q34ztbahh3zksrqq6a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21spkr4q34ztbahh3zksrqq6a&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
+  
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21spkr4q34ztbahh3zksrqq6a)
+
 </div>
-
-
 ###
 <img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
 
