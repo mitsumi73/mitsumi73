@@ -1,13 +1,5 @@
 <!-- VQA_IoT Profile -->
-<div align="center">
-  <a href="https://open.spotify.com/user/21spkr4q34ztbahh3zksrqq6a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21spkr4q34ztbahh3zksrqq6a&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
 ###
-<img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
 
 
 ###
@@ -28,7 +20,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=47A248" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Apache-282C34?logo=apache&logoColor=#D22128" alt="Apache logo" title="Apache" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFE873" alt="Python logo" title="" height="25" /></span>
 &nbsp;
@@ -40,11 +32,33 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Nodedotjs-282C34?logo=firebase&logoColor=339933" alt="Nodedotjs logo" title="Nodedotjs" height="25" /></span>
 &nbsp;
-
-
+<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=008000" alt="Nginx logo" title="Nginx" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Pycharm-282C34?logo=pycharm&logoColor=FFFF00" alt="Pycharm logo" title="Pycharm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=44A833" alt="Anaconda logo" title="Anaconda" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Web3dotjs-282C34?logo=web3dotjs&logoColor=F16822" alt="Web3dotjs logo" title="Web3dot.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Npm-282C34?logo=npm&logoColor=F16822" alt="npm logo" title="npm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Yaml-282C34?logo=yaml&logoColor=CB171E" alt="yaml logo" title="yaml" height="25" /></span>
+&nbsp;
 <br>
+    
+<div align="center">
+  
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21spkr4q34ztbahh3zksrqq6a)
+
+</div>
+###
+<img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
+
+###
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center">
