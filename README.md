@@ -1,5 +1,7 @@
 <!-- VQA_IoT Profile -->
+
 ###
+[![trophy](https://github-profile-trophy.vercel.app/?username=mitsumi73&column=9&theme=onedark)](https://github.com/mitsumi73/mitsumi73)
 
 
 ###
