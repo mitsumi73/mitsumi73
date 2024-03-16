@@ -76,10 +76,10 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mitsumi73/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mitsumi73&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/mitsumi73/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitsumi73&show_icons=true&theme=dark#gh-dark-mode-only&layout=compact&langs_count=8&card_width=320" />
 </a>
   
