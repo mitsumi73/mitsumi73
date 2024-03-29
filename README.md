@@ -59,6 +59,8 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 &nbsp;
 <span><img src="https://img.shields.io/badge/Npm-282C34?logo=npm&logoColor=F16822" alt="npm logo" title="npm" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="figma logo" title="figma" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Yaml-282C34?logo=yaml&logoColor=CB171E" alt="yaml logo" title="yaml" height="30" /></span>
 &nbsp;
 <br>
