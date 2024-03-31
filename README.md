@@ -41,13 +41,11 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nodedotjs-282C34?logo=firebase&logoColor=339933" alt="Nodedotjs logo" title="Nodedotjs" height="30" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=008000" alt="Nginx logo" title="Nginx" height="30" /></span>
 &nbsp;
@@ -58,6 +56,8 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 <span><img src="https://img.shields.io/badge/Web3dotjs-282C34?logo=web3dotjs&logoColor=F16822" alt="Web3dotjs logo" title="Web3dot.js" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Npm-282C34?logo=npm&logoColor=F16822" alt="npm logo" title="npm" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="figma logo" title="figma" height="30" /></span>
 &nbsp;
