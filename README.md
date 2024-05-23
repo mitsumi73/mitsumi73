@@ -77,10 +77,10 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 <img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<a href="https://github.com/mitsumi73/github-readme-stats">
+<a href="https://github.com/mitsumi73">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mitsumi73" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/mitsumi73">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitsumi73&layout=compact&langs_count=8&card_width=320" />
 </a>
 
