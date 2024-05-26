@@ -78,11 +78,17 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <a href="https://github.com/mitsumi73">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mitsumi73" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mitsumi73" />
 </a>
 <a href="https://github.com/mitsumi73">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitsumi73&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitsumi73&layout=compact&langs_count=8&card_width=280" />
 </a>
+<br>
+<div align=center>
+  <br>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mitsumi37"/>
+	<br>
+</div>
 
 <div align="center">
 <br>
