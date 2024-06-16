@@ -68,9 +68,9 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 <div align="center">
 <br>  
 <a>
-  
-![spotify-github-profile](/novatorem.svg)
-
+	
+![spotify-github-profile](/novatorem.svg) &nbsp;&nbsp;&nbsp;  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mitsumi37"/>
+	
 </a>
 </div>
 
@@ -83,32 +83,27 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 <a href="https://github.com/mitsumi73">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitsumi73&layout=compact&langs_count=8&card_width=280" />
 </a>
-<br>
-<div align=center>
-  <br>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mitsumi37"/>
-	<br>
-</div>
 
 <div align="center">
 <br>
-<a>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=mitsumi73&column=9&theme=onedark)](https://github.com/mitsumi73/mitsumi73)
+	
+![trophy](https://github-profile-trophy.vercel.app/?username=mitsumi73&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,PullRequest,Experience,PR&theme=onedark&margin-w=5&column=6)
 
-</a>
+</div>
 
 <h2 align="center">📖 Education 📖</h2>
 <br>
 <div align="left">
-<p><strong>☕ 2018 - Graduated from High School</strong></p>
-<p><strong>☕ 2018 - Come to Korea </strong></p>
-<p><strong>☕ 2018 - Kyonggi Uni(student ID 18) -  Korean Language(Level 6)</strong></p>
-<p><strong>☕ 2021 - Kyonggi Uni(student ID 21) - Computer Engineering Major - Expected to graduate: 02/2025</strong></p>
-<p><strong>☕ 2023 - TOPIK(Test of Proficiency in Korean) Level 3</strong></p>
-<p><strong>☕ 2023 - Bronze Medal of the Korea Information Technology Society Award(한국정보기술학회)</strong></p>
-<p><strong>☕ 2024 - Kyonggi Uni SW-Centered Uni Project Team - Grand first in 5th Python Basic Coding Program for International Students</strong></p>
-<p><strong>☕ 2024 - TOPIK(Test of Proficiency in Korean) Level 4</strong></p>
+<p><strong>🎓 2018 - Graduated from High School</strong></p>
+<p><strong>✈️ 2018 - Come to Korea </strong></p>
+<p><strong>🎓 2018 - Kyonggi Uni(18학번) - 어학원생</strong></p>
+<p><strong>🎓 2021 - Kyonggi Uni(21학번) - AI컴퓨터공학전공 - Expected to graduate: 02/2025</strong></p>
+<p><strong>📄 2023 - TOPIK 3급</strong></p>
+<p><strong>🥉 2023 - Bronze Medal of the Korea Information Technology Society Award(한국정보기술학회)</strong></p>
+<p><strong>🏆 2024 - Kyonggi Uni SW-Centered Uni Project Team - Grand first in 5th Python Basic Coding Program for International Students</strong></p>
+<p><strong>📄 2024 - TOPIK 4급</strong></p>
+<p><strong>🥇 2024 - Gold Medal of the Korea Information Technology Society Award(한국정보기술학회)</strong></p>
+<p><strong>🏆 2024 - Awarded as an Outstanding Participant by the International Education Team of Kyonggi University</strong></p>
 <br>
   
 <h2 align="center">📑 My Hobby 📑</h2>
