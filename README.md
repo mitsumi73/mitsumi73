@@ -81,7 +81,7 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mitsumi73" />
 </a>
 <a href="https://github.com/mitsumi73">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitsumi73&layout=compact&langs_count=8&card_width=280" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsumi73&layout=compact&langs_count=12&hide=rust,go"/>
 </a>
 
 <div align="center">
