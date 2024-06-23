@@ -30,18 +30,18 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align="center">
-<a href="https://github.com/mitsumi73">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mitsumi73" />
+<a href="https://github.com/mitsumi37">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mitsumi37" />
 </a>
-<a href="https://github.com/mitsumi73">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsumi73&layout=compact&langs_count=12&hide=rust,go"/>
+<a href="https://github.com/mitsumi37">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsumi37&layout=compact&langs_count=12&hide=rust,go"/>
 </a>
 </div>
 
 <div align="center">
 <br>
 	
-![trophy](https://github-profile-trophy.vercel.app/?username=mitsumi73&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,PullRequest,Experience,PR&theme=onedark&margin-w=5&column=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=mitsumi37&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,PullRequest,Experience,PR&theme=onedark&margin-w=5&column=5)
 
 </div>
 
