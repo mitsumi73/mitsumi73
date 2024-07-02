@@ -14,16 +14,16 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ghost-viper2607/ghost-viper2607/output/snake.svg" alt="Snake animation" />
 </div>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align="center">
-<a href="https://github.com/mitsumi37">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mitsumi37" />
+<a href="https://github.com/ghost-viper2607">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-viper2607" />
 </a>
-<a href="https://github.com/mitsumi37">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsumi37&layout=compact&langs_count=12&hide=rust,go"/>
+<a href="https://github.com/ghost-viper2607">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-viper2607&layout=compact&langs_count=12&hide=rust,go"/>
 </a>
 </div>
 
